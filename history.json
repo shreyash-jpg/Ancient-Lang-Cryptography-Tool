@@ -1,0 +1,17 @@
+[
+    {
+        "action": "encrypt",
+        "input": "omkar gopale",
+        "output": "\ud804\udc11\ud804\udc2b\ud804\udc13\ud804\udc05\ud804\udc2d \ud804\udc15\ud804\udc11\ud804\udc27\ud804\udc05\ud804\udc2e\ud804\udc0f"
+    },
+    {
+        "action": "encrypt",
+        "input": "hello\r\n",
+        "output": "\ud804\udc33\ud804\udc0f\ud804\udc2e\ud804\udc2e\ud804\udc11"
+    },
+    {
+        "action": "decrypt",
+        "input": "\ud804\udc33\ud804\udc0f\ud804\udc2e\ud804\udc2e\ud804\udc11",
+        "output": "hello"
+    }
+]
