@@ -21,28 +21,28 @@
 - Flask
 
 #### Installation & Setup
-1. **Clone the repository**
+1. **Clone the repository**                 
    
-   git clone [https://github.com/shreyash-jpg/Ancient-Lang-Cryptography-Tool.git]
+   git clone [https://github.com/shreyash-jpg/Ancient-Lang-Cryptography-Tool.git]                                      
    cd shlokeyweb
-2. **Install dependencies
+2. **Install dependencies**
     pip install -r requirements.txt
 
-3. **Run the application
+3. **Run the application**
      python app.py
-4. **Visit: http://127.0.0.1:5000 in your browser.
+4. **Visit: http://127.0.0.1:5000 in your browser**.
 
 ### 📋 Usage
-**Web Interface (Recommended)
+**Web Interface (Recommended)**
      Text Mode: Enter text → Click Encrypt/Decrypt.
      File Mode: Upload file → Process → Download result.
      History: View your session-based activity.
 
-**Output Formats:
+**Output Formats:**
      Encrypted: {filename}_encrypted.brahmi
      Decrypted: {filename}_decrypted.txt
 
-**CLI Mode (Optional)
+**CLI Mode (Optional)**
      python shlokey.py
 
 ### 📂 File Structure
