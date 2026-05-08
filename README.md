@@ -23,7 +23,7 @@
 #### Installation & Setup
 1. **Clone the repository**
    
-   git clone [https://github.com/atheistog/shlokeyweb.git]
+   git clone [https://github.com/shreyash-jpg/Ancient-Lang-Cryptography-Tool.git]
    cd shlokeyweb
 2. **Install dependencies
     pip install -r requirements.txt
@@ -47,14 +47,14 @@
 
 ### 📂 File Structure
 
-shlokeyweb/
-├── app.py              # Flask web app
-├── shlokey.py          # CLI version  
-├── pali.json           # English ↔ Pali dictionary (1000+ words)
-├── brahmi.json         # Pali ↔ Brahmi script mapping
-├── templates/
-│   └── index.html      # Modern UI
-├── requirements.txt    # Dependencies
+ shlokeyweb/
+  ├── app.py              # Flask web app
+  ├── shlokey.py          # CLI version  
+  ├── pali.json           # English ↔ Pali dictionary (1000+ words)
+  ├── brahmi.json         # Pali ↔ Brahmi script mapping
+  ├── templates/
+  │   └── index.html      # Modern UI
+  ├── requirements.txt    # Dependencies
 └── README.md           # Documentation
 ###🔧 Customization
        Add New Words:  pali.json -> "word": "translation"
