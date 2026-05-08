@@ -48,10 +48,10 @@
 ### 📂 File Structure
 
  shlokeyweb/
-  ├── app.py              # Flask web app
-  ├── shlokey.py          # CLI version  
-  ├── pali.json           # English ↔ Pali dictionary (1000+ words)
-  ├── brahmi.json         # Pali ↔ Brahmi script mapping
+  ├── app.py              # Flask web app                                                                   
+  ├── shlokey.py          # CLI version                          
+  ├── pali.json           # English ↔ Pali dictionary (1000+ words)           
+  ├── brahmi.json         # Pali ↔ Brahmi script mapping                
   ├── templates/
   │   └── index.html      # Modern UI
   ├── requirements.txt    # Dependencies
