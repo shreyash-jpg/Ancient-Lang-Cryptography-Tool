@@ -47,15 +47,15 @@
 
 ### 📂 File Structure
 
- shlokeyweb/
+ shlokeyweb/                                                                                                
   ├── app.py              # Flask web app                                                                   
   ├── shlokey.py          # CLI version                          
   ├── pali.json           # English ↔ Pali dictionary (1000+ words)           
   ├── brahmi.json         # Pali ↔ Brahmi script mapping                
-  ├── templates/
-  │   └── index.html      # Modern UI
-  ├── requirements.txt    # Dependencies
-└── README.md           # Documentation
+  ├── templates/                                                                     
+  │   └── index.html      # Modern UI                                                
+  ├── requirements.txt    # Dependencies                                        
+└── README.md           # Documentation                                      
 ###🔧 Customization
        Add New Words:  pali.json -> "word": "translation"
        Extend Scripts:  brahmi.json -> "char": "glyph"
